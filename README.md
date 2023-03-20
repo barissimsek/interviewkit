@@ -9,5 +9,6 @@
 ## Programming & Algorithms
 * Python Programming for Beginners, https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7, Corey Schafer
 * Dynamic Programming, https://www.youtube.com/watch?v=oBt53YbR9Kk&t=3893s, freeCodeCamp.org
+* Binary Trees Leetcode Playlist, https://www.youtube.com/watch?v=0K0uCMYq5ng&list=PLot-Xpze53ldg4pN6PfzoJY7KsKcxF1jg, NeetCode
 
 ## OS Internals
