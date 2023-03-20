@@ -1,4 +1,4 @@
-# interviewkit
+# SRE Interview Kit
 
 ## System Design
 * Scaling Instagram Infrastructure: https://www.youtube.com/watch?v=hnpzNAPiC0E, InfoQ
@@ -7,4 +7,7 @@
 * How to implement TinyURL, https://www.youtube.com/watch?v=eCLqmPBIEYs, KA Education
 
 ## Programming & Algorithms
+* Python Programming for Beginners, https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7, Corey Schafer
 * Dynamic Programming, https://www.youtube.com/watch?v=oBt53YbR9Kk&t=3893s, freeCodeCamp.org
+
+## OS Internals
