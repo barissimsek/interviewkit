@@ -12,3 +12,4 @@
 * Binary Trees Leetcode Playlist, https://www.youtube.com/watch?v=0K0uCMYq5ng&list=PLot-Xpze53ldg4pN6PfzoJY7KsKcxF1jg, NeetCode
 
 ## OS Internals
+* Linux System Loadm https://www.youtube.com/watch?v=JrIb0ul4cLk, Baris Simsek
