@@ -2,6 +2,10 @@
 
 I collected number of resources for you that will prepare you for an SRE interview in the top companies. Too much information is disinformation. So don't waste your time with the noise. Try to study and complete following list first.
 
+## Books
+
+* Site Reliability Engineering, https://sre.google/sre-book/table-of-contents/, Google
+
 ## System Design
 * Distributed System in One Lesson, https://www.youtube.com/watch?v=Y6Ev8GIlbxc, Tim Berglund (Devoxx Poland)
 * Scaling Instagram Infrastructure: https://www.youtube.com/watch?v=hnpzNAPiC0E, InfoQ
