@@ -16,4 +16,5 @@ I collected number of resources for you that will prepare you for an SRE intervi
 
 ## OS Internals
 * Linux System Load, https://www.youtube.com/watch?v=JrIb0ul4cLk, Baris Simsek
+* Vmstat, https://www.youtube.com/watch?v=qTvJfW56m1c, theurbanpenguin
 * Virtual Memory, https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX, David Black-Schaffer
