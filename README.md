@@ -22,6 +22,7 @@ I collected number of resources for you that will prepare you for an SRE intervi
 * Binary Trees Leetcode Playlist, https://www.youtube.com/watch?v=0K0uCMYq5ng&list=PLot-Xpze53ldg4pN6PfzoJY7KsKcxF1jg, NeetCode
 
 ## OS Internals
+* Fork, https://youtu.be/9seb8hddeK4, Brian Fraser
 * Linux System Load, https://www.youtube.com/watch?v=JrIb0ul4cLk, Baris Simsek
 * Vmstat, https://www.youtube.com/watch?v=qTvJfW56m1c, theurbanpenguin
 * Virtual Memory, https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX, David Black-Schaffer
