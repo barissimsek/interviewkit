@@ -21,8 +21,8 @@ I have gathered several resources to help you prepare for an SRE interview with 
   - Longest Palindromic Substring, https://youtu.be/XYQecbcd6_c, NeetCode
   - Climbing Stairs, https://youtu.be/Y0lT9Fck7qI, NeetCode
   - Target Sum, https://youtu.be/g0npyaQtAQM, NeetCode
-* Binary Trees Leetcode Playlist, https://www.youtube.com/watch?v=0K0uCMYq5ng&list=PLot-Xpze53ldg4pN6PfzoJY7KsKcxF1jg, NeetCode
-  - Binary Tree Level Order Traversal, BFS https://www.youtube.com/watch?v=6ZnyEApgFYg
+* Binary Trees Leetcode Playlist, https://www.youtube.com/watch?v=0K0uCMYq5ng&list=PLot-Xpze53ldg4pN6PfzoJY7KsKcxF1jg
+  - Binary Tree Level Order Traversal, BFS https://www.youtube.com/watch?v=6ZnyEApgFYg, NeetCode
 
 ## OS Internals
 * Fork, https://youtu.be/9seb8hddeK4, Brian Fraser
