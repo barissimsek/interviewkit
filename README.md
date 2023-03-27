@@ -1,5 +1,7 @@
 # SRE Interview Kit
 
+I collected number of resources for you that will prepare you for an SRE interview in the top companies. Too much information is disinformation. So don't waste your time with the noise. Try to study and complete following list first.
+
 ## System Design
 * Scaling Instagram Infrastructure: https://www.youtube.com/watch?v=hnpzNAPiC0E, InfoQ
 * Scaling Memcache at Facebook: https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf, Facebook Inc
@@ -13,4 +15,5 @@
 * Binary Trees Leetcode Playlist, https://www.youtube.com/watch?v=0K0uCMYq5ng&list=PLot-Xpze53ldg4pN6PfzoJY7KsKcxF1jg, NeetCode
 
 ## OS Internals
-* Linux System Loadm https://www.youtube.com/watch?v=JrIb0ul4cLk, Baris Simsek
+* Linux System Load, https://www.youtube.com/watch?v=JrIb0ul4cLk, Baris Simsek
+* Virtual Memory, https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX, David Black-Schaffer
