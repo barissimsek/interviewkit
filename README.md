@@ -20,6 +20,7 @@ I collected number of resources for you that will prepare you for an SRE intervi
 * Dynamic Programming, https://www.youtube.com/watch?v=oBt53YbR9Kk&t=3893s, freeCodeCamp.org (Alvin Zablan from Coderbyte)
 * Dynamic Programming Leetcode Playlist, https://www.youtube.com/watch?v=XYQecbcd6_c&list=PLot-Xpze53lcvx_tjrr_m2lgD2NsRHlNO, NeetCode 
 * Binary Trees Leetcode Playlist, https://www.youtube.com/watch?v=0K0uCMYq5ng&list=PLot-Xpze53ldg4pN6PfzoJY7KsKcxF1jg, NeetCode
+  - Binary Tree Level Order Traversal, BFS https://www.youtube.com/watch?v=6ZnyEApgFYg
 
 ## OS Internals
 * Fork, https://youtu.be/9seb8hddeK4, Brian Fraser
