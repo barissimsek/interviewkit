@@ -11,6 +11,7 @@ I collected number of resources for you that will prepare you for an SRE intervi
 
 ## Programming & Algorithms
 * Python Programming for Beginners, https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7, Corey Schafer
+* Big-O Notation, https://www.youtube.com/watch?v=BgLTDT03QtU, NeetCode
 * Dynamic Programming, https://www.youtube.com/watch?v=oBt53YbR9Kk&t=3893s, freeCodeCamp.org (Alvin Zablan from Coderbyte)
 * Dynamic Programming Leetcode Playlist, https://www.youtube.com/watch?v=XYQecbcd6_c&list=PLot-Xpze53lcvx_tjrr_m2lgD2NsRHlNO, NeetCode 
 * Binary Trees Leetcode Playlist, https://www.youtube.com/watch?v=0K0uCMYq5ng&list=PLot-Xpze53ldg4pN6PfzoJY7KsKcxF1jg, NeetCode
