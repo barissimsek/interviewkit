@@ -12,6 +12,7 @@ I collected number of resources for you that will prepare you for an SRE intervi
 * Scaling Memcache at Facebook: https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf, Facebook Inc
 * Lecture 16: Cache Consistency: Memcached at Facebook, https://www.youtube.com/watch?v=Myp8z0ybdzM, MIT 6.824: Distributed Systems
 * How to implement TinyURL, https://www.youtube.com/watch?v=eCLqmPBIEYs, KA Education
+* RAID, https://youtu.be/U-OCdTeZLac, Tech Videos
 
 ## Programming & Algorithms
 * Python Programming for Beginners, https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7, Corey Schafer
