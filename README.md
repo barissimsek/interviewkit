@@ -34,4 +34,5 @@ I collected number of resources for you that will prepare you for an SRE intervi
 
 * TCP and UDP, https://youtu.be/MMDhvHYAF7E, Cisco
 * Three-way Handshake in TCP, https://youtu.be/LyDqA-dAPW4, Cisco
-* How Internet Works, https://www.youtube.com/watch?v=AlkDbnbv7dk, Byte-Byte-Go
+* DNS - Domain Name System, https://www.youtube.com/watch?v=27r4Bzuj5NQ, ByteByteGo
+* How Internet Works, https://www.youtube.com/watch?v=AlkDbnbv7dk, ByteByteGo
