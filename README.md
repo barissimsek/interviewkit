@@ -27,3 +27,6 @@ I collected number of resources for you that will prepare you for an SRE intervi
 * Virtual Memory, https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX, David Black-Schaffer
 
 ## Networking
+
+* TCP and UDP, https://youtu.be/MMDhvHYAF7E, Cisco
+* Three-way Handshake in TCP, https://youtu.be/LyDqA-dAPW4, Cisco
