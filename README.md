@@ -1,6 +1,6 @@
 # SRE Interview Kit
 
-I collected number of resources for you that will prepare you for an SRE interview in the top companies. Too much information is disinformation. So don't waste your time with the noise. Try to study and complete following list first.
+I have gathered several resources to help you prepare for an SRE interview with top companies. It's important to avoid getting overwhelmed by too much information, as it can be misleading. Instead, focus your efforts on studying and practicing the key topics listed below.
 
 ## Books
 
@@ -36,3 +36,9 @@ I collected number of resources for you that will prepare you for an SRE intervi
 * Three-way Handshake in TCP, https://youtu.be/LyDqA-dAPW4, Cisco
 * DNS - Domain Name System, https://www.youtube.com/watch?v=27r4Bzuj5NQ, ByteByteGo
 * How Internet Works, https://www.youtube.com/watch?v=AlkDbnbv7dk, ByteByteGo
+
+## Optionals
+
+While there are additional optional topics to explore, it's best to master the fundamentals first. Once you feel confident with the basics, you can gradually expand your knowledge. Following topics are optional.
+
+* Containerization, https://www.youtube.com/watch?v=gNRWP2K7h0s, Baris Simsek
