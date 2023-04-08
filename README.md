@@ -5,6 +5,7 @@ I have gathered several resources to help you prepare for an SRE interview with 
 ## Books
 
 * Site Reliability Engineering, https://sre.google/sre-book/table-of-contents/, Google
+* System Design Interview, https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/, Alex Xu
 
 ## System Design
 * Distributed System in One Lesson, https://www.youtube.com/watch?v=Y6Ev8GIlbxc, Tim Berglund (Devoxx Poland)
