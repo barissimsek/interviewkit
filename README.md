@@ -20,8 +20,9 @@ I have gathered several resources to help you prepare for an SRE interview with 
 * Dynamic Programming, https://www.youtube.com/watch?v=oBt53YbR9Kk&t=3893s, freeCodeCamp.org (Alvin Zablan from Coderbyte)
   - Climbing Stairs, https://youtu.be/Y0lT9Fck7qI, NeetCode
   - Target Sum, https://youtu.be/g0npyaQtAQM, NeetCode
-* Binary Trees Leetcode Playlist, https://www.youtube.com/watch?v=0K0uCMYq5ng&list=PLot-Xpze53ldg4pN6PfzoJY7KsKcxF1jg
+* Binary Trees Leetcode Playlist, https://youtube.com/playlist?list=PLot-Xpze53ldg4pN6PfzoJY7KsKcxF1jg, NeetCode
   - Binary Tree Level Order Traversal, BFS https://www.youtube.com/watch?v=6ZnyEApgFYg, NeetCode
+  - Construct Binary Tree from Inorder and Preorder Traversal, https://www.youtube.com/watch?v=ihj4IQGZ2zc, NeetCode
 * Sliding Window
   - Longest Palindromic Substring, https://youtu.be/XYQecbcd6_c, NeetCode
 
