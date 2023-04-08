@@ -20,7 +20,7 @@ I have gathered several resources to help you prepare for an SRE interview with 
 * Dynamic Programming, https://www.youtube.com/watch?v=oBt53YbR9Kk&t=3893s, freeCodeCamp.org (Alvin Zablan from Coderbyte)
   - Climbing Stairs, https://youtu.be/Y0lT9Fck7qI, NeetCode
   - Target Sum, https://youtu.be/g0npyaQtAQM, NeetCode
-* Binary Trees Leetcode Playlist, https://youtube.com/playlist?list=PLot-Xpze53ldg4pN6PfzoJY7KsKcxF1jg, NeetCode
+* Binary Tree Algorithms, https://www.youtube.com/watch?v=fAAZixBzIAI&t=4576s, freeCodeCamp.org (Alvin Zablan from Coderbyte)
   - Binary Tree Level Order Traversal, BFS https://www.youtube.com/watch?v=6ZnyEApgFYg, NeetCode
   - Construct Binary Tree from Inorder and Preorder Traversal, https://www.youtube.com/watch?v=ihj4IQGZ2zc, NeetCode
 * Sliding Window
@@ -41,6 +41,8 @@ I have gathered several resources to help you prepare for an SRE interview with 
 
 ## Optionals
 
-While there are additional optional topics to explore, it's best to master the fundamentals first. Once you feel confident with the basics, you can gradually expand your knowledge. Following topics are optional.
+** Before start studying in those additional topics, master the fundamentals first. Once you feel confident with the them, you can gradually expand your knowledge. **
+
+Big tech companies usually contact generic interviews and don't ask questions about the specific topics. This might not be the case for many mid-size companies or startups. Whether they ask or not, if you are a L4+ SRE, you are supposed to know following topics as well.
 
 * Containerization, https://www.youtube.com/watch?v=gNRWP2K7h0s, Baris Simsek
