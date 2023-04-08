@@ -5,15 +5,8 @@ I have gathered several resources to help you prepare for an SRE interview with 
 ## Books
 
 * Site Reliability Engineering, https://sre.google/sre-book/table-of-contents/, Google
+* Designing Data-Intensive Applications, https://www.amazon.com/dp/1449373321?ref_=cm_sw_r_cp_ud_dp_9FKFMVYACWBKST1SNWGW, Martin Kleppmann
 * System Design Interview, https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/, Alex Xu
-
-## System Design
-* Distributed System in One Lesson, https://www.youtube.com/watch?v=Y6Ev8GIlbxc, Tim Berglund (Devoxx Poland)
-* Scaling Instagram Infrastructure: https://www.youtube.com/watch?v=hnpzNAPiC0E, InfoQ
-* Scaling Memcache at Facebook: https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf, Facebook Inc
-* Lecture 16: Cache Consistency: Memcached at Facebook, https://www.youtube.com/watch?v=Myp8z0ybdzM, MIT 6.824: Distributed Systems
-* How to implement TinyURL, https://www.youtube.com/watch?v=eCLqmPBIEYs, KA Education
-* RAID, https://youtu.be/U-OCdTeZLac, Tech Videos
 
 ## Programming & Algorithms
 * Python Programming for Beginners, https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7, Corey Schafer
@@ -39,6 +32,17 @@ I have gathered several resources to help you prepare for an SRE interview with 
 * Three-way Handshake in TCP, https://youtu.be/LyDqA-dAPW4, Cisco
 * DNS - Domain Name System, https://www.youtube.com/watch?v=27r4Bzuj5NQ, ByteByteGo
 * How Internet Works, https://www.youtube.com/watch?v=AlkDbnbv7dk, ByteByteGo
+
+## System Design
+* Distributed System in One Lesson, https://www.youtube.com/watch?v=Y6Ev8GIlbxc, Tim Berglund (Devoxx Poland)
+* Scaling Instagram Infrastructure: https://www.youtube.com/watch?v=hnpzNAPiC0E, InfoQ
+* Scaling Memcache at Facebook: https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf, Facebook Inc
+* Lecture 16: Cache Consistency: Memcached at Facebook, https://www.youtube.com/watch?v=Myp8z0ybdzM, MIT 6.824: Distributed Systems
+* How to implement TinyURL, https://www.youtube.com/watch?v=eCLqmPBIEYs, KA Education
+* RAID, https://youtu.be/U-OCdTeZLac, Tech Videos
+
+## Behavioral
+* https://www.youtube.com/watch?v=0Z9RW_hhUT4
 
 ## Optionals
 
