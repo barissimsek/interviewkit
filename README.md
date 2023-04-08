@@ -41,7 +41,7 @@ I have gathered several resources to help you prepare for an SRE interview with 
 * How to implement TinyURL, https://www.youtube.com/watch?v=eCLqmPBIEYs, KA Education
 * RAID, https://youtu.be/U-OCdTeZLac, Tech Videos
 
-## Behavioral
+## Behavioural
 * https://www.youtube.com/watch?v=0Z9RW_hhUT4
 
 ## Optionals
