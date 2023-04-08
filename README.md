@@ -5,8 +5,8 @@ I have gathered several resources to help you prepare for an SRE interview with 
 ## Books
 
 * Site Reliability Engineering, https://sre.google/sre-book/table-of-contents/, Google
-* Designing Data-Intensive Applications, https://www.amazon.com/dp/1449373321?ref_=cm_sw_r_cp_ud_dp_9FKFMVYACWBKST1SNWGW, Martin Kleppmann
-* System Design Interview, https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF/, Alex Xu
+* Designing Data-Intensive Applications, https://www.amazon.com/dp/1449373321, Martin Kleppmann
+* System Design Interview, https://a.co/d/93j1qF0, Alex Xu
 
 ## Programming & Algorithms
 * Python Programming for Beginners, https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7, Corey Schafer
