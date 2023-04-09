@@ -46,7 +46,7 @@ I have gathered several resources to help you prepare for an SRE interview with 
 
 ## Optionals
 
-* Before start studying in those additional topics, master the fundamentals first. Once you feel confident with the them, you can gradually expand your knowledge. *
+**Before start studying in those additional topics, master the fundamentals first. Once you feel confident with the them, you can gradually expand your knowledge.**
 
 Big tech companies usually contact generic interviews and don't ask questions about the specific topics. This might not be the case for many mid-size companies or startups. Whether they ask or not, if you are a L4+ SRE, you are supposed to know following topics as well.
 
