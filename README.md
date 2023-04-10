@@ -47,6 +47,7 @@ I have gathered several resources to help you prepare for an SRE interview with 
 * How to Tell a Good Story, https://youtu.be/hU6BVxtGd5g, ALifeEngineered
 * Senior Staff Engineer Interview Questions, https://youtu.be/An5gq_oiVHc, Mock Questions
 * Cracking the Behavioral Interview, https://youtu.be/ld0cvWnrVsU, Keep On Coding
+* All You Need To Know About Behavioral Interviews, https://youtu.be/6rW01g6Obwk, Clément Mihailescu
 
 ## Optionals
 
