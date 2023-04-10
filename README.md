@@ -35,6 +35,7 @@ I have gathered several resources to help you prepare for an SRE interview with 
 * How Internet Works, https://youtu.be/AlkDbnbv7dk, ByteByteGo
 
 ## System Design
+* How to Prepare, https://youtu.be/0Z9RW_hhUT4, ALifeEngineered
 * Distributed System in One Lesson, https://youtu.be/Y6Ev8GIlbxc, Tim Berglund (Devoxx Poland)
 * Scaling Instagram Infrastructure: https://youtu.be/hnpzNAPiC0E, InfoQ
 * [Scaling Memcache at Facebook](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf), Facebook Inc
@@ -43,7 +44,9 @@ I have gathered several resources to help you prepare for an SRE interview with 
 * RAID, https://youtu.be/U-OCdTeZLac, Tech Videos
 
 ## Behavioural
-* How to Prepare, https://youtu.be/0Z9RW_hhUT4, ALifeEngineered
+* How to Tell a Good Story, https://youtu.be/hU6BVxtGd5g, ALifeEngineered
+* Senior Staff Engineer Interview Questions, https://youtu.be/An5gq_oiVHc, Mock Questions
+* Cracking the Behavioral Interview, https://youtu.be/ld0cvWnrVsU, Keep On Coding
 
 ## Optionals
 
