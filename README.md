@@ -41,6 +41,7 @@ I have gathered several resources to help you prepare for an SRE interview with 
 * [Scaling Memcache at Facebook](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf), Facebook Inc
 * Lecture 16: Cache Consistency: Memcached at Facebook, https://youtu.be/Myp8z0ybdzM, MIT 6.824: Distributed Systems
 * How to implement TinyURL, https://youtu.be/eCLqmPBIEYs, KA Education
+* Design A Location Based Service (Yelp), https://youtu.be/M4lR_Va97cQ, ByteByteGo
 * RAID, https://youtu.be/U-OCdTeZLac, Tech Videos
 
 ## Behavioural
