@@ -19,6 +19,7 @@ I have gathered several resources to help you prepare for an SRE interview with 
   - Construct Binary Tree from Inorder and Preorder Traversal, https://www.youtube.com/watch?v=ihj4IQGZ2zc, NeetCode
 * Sliding Window
   - Longest Palindromic Substring, https://youtu.be/XYQecbcd6_c, NeetCode
+  - Best Time to Buy and Sell Stock, https://youtu.be/1pkOgXD63yU, NeetCode
 
 ## OS Internals
 * Fork, https://youtu.be/9seb8hddeK4, Brian Fraser
