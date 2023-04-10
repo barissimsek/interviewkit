@@ -43,6 +43,7 @@ I have gathered several resources to help you prepare for an SRE interview with 
 * How to implement TinyURL, https://youtu.be/eCLqmPBIEYs, KA Education
 * Design A Location Based Service (Yelp), https://youtu.be/M4lR_Va97cQ, ByteByteGo
 * RAID, https://youtu.be/U-OCdTeZLac, Tech Videos
+* What is Apache Kafka?, https://youtu.be/vHbvbwSEYGo, The ASF
 
 ## Behavioural
 * Intro to Behavioural Interviews, https://youtu.be/PJKYqLP6MRE, Jackson Gabbard
