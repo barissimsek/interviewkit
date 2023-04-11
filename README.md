@@ -24,8 +24,11 @@ I have gathered several resources to help you prepare for an SRE interview with 
 ## OS Internals
 * Fork, https://youtu.be/9seb8hddeK4, Brian Fraser
 * Linux System Load, https://youtu.be/JrIb0ul4cLk, Baris Simsek
+* iostat, https://youtu.be/hnDLz4sY1eM, Sander van Vugt
 * Vmstat, https://youtu.be/qTvJfW56m1c, theurbanpenguin
+* 8 Basic lsof Commands, https://youtu.be/rLgRkjM7amo, tutorialLinux
 * [Virtual Memory](https://www.youtube.com/watch?v=qcBIvnQt0Bw&list=PLiwt1iVUib9s2Uo5BeYmwkDFUh70fJPxX), David Black-Schaffer
+* UNIX inodes and file metadata, https://youtu.be/_6VJ8WfWI4k, theurbanpenguin
 
 ## Networking
 
