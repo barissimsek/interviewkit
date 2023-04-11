@@ -61,6 +61,7 @@ I have gathered several resources to help you prepare for an SRE interview with 
 * Interview Mockups
   - How to implement TinyURL, https://youtu.be/eCLqmPBIEYs, KA Education
   - Design A Location Based Service (Yelp), https://youtu.be/M4lR_Va97cQ, ByteByteGo
+  - Distributed Cache, https://youtu.be/iuqZvajTOyA, System Design Interview
 
 ## Behavioural
 * Intro to Behavioural Interviews, https://youtu.be/PJKYqLP6MRE, Jackson Gabbard
