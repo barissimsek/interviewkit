@@ -49,10 +49,11 @@ I have gathered several resources to help you prepare for an SRE interview with 
 
 ## System Design
 * How to Prepare, https://youtu.be/0Z9RW_hhUT4, ALifeEngineered
-* Real Life Examples
+* Real Life Examples from Big Tech
   - Scaling Instagram Infrastructure: https://youtu.be/hnpzNAPiC0E, InfoQ
   - [Scaling Memcache at Facebook](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf), Facebook Inc
   - Lecture 16: Cache Consistency: Memcached at Facebook, https://youtu.be/Myp8z0ybdzM, MIT 6.824: Distributed Systems
+  - How We've Scaled Dropbox, How We've Scaled Dropbox, Kevin Modzelewski
 * Knowledge Base
   - Distributed System in One Lesson, https://youtu.be/Y6Ev8GIlbxc, Tim Berglund (Devoxx Poland)
   - What is Apache Kafka?, https://youtu.be/vHbvbwSEYGo, The ASF
