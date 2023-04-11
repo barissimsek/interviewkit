@@ -33,6 +33,8 @@ I have gathered several resources to help you prepare for an SRE interview with 
   - iostat, https://youtu.be/hnDLz4sY1eM, Sander van Vugt
   - Vmstat, https://youtu.be/qTvJfW56m1c, theurbanpenguin
   - 8 Basic lsof Commands, https://youtu.be/rLgRkjM7amo, tutorialLinux
+* Bash
+  - Linux Commands, https://youtu.be/ROHLYP2Zkh4, Baris Simsek
 
 ## Networking
 
