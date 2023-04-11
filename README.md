@@ -48,15 +48,18 @@ I have gathered several resources to help you prepare for an SRE interview with 
 * Asymmetric Encryption, https://youtu.be/AQDCe585Lnc, Simply Explained
 
 ## System Design
-* How to Prepare, https://youtu.be/0Z9RW_hhUT4, ALifeEngineered
-* Distributed System in One Lesson, https://youtu.be/Y6Ev8GIlbxc, Tim Berglund (Devoxx Poland)
-* Scaling Instagram Infrastructure: https://youtu.be/hnpzNAPiC0E, InfoQ
-* [Scaling Memcache at Facebook](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf), Facebook Inc
-* Lecture 16: Cache Consistency: Memcached at Facebook, https://youtu.be/Myp8z0ybdzM, MIT 6.824: Distributed Systems
-* How to implement TinyURL, https://youtu.be/eCLqmPBIEYs, KA Education
-* Design A Location Based Service (Yelp), https://youtu.be/M4lR_Va97cQ, ByteByteGo
-* RAID, https://youtu.be/U-OCdTeZLac, Tech Videos
-* What is Apache Kafka?, https://youtu.be/vHbvbwSEYGo, The ASF
+* Real Life Examples
+  - How to Prepare, https://youtu.be/0Z9RW_hhUT4, ALifeEngineered
+  - Scaling Instagram Infrastructure: https://youtu.be/hnpzNAPiC0E, InfoQ
+  - [Scaling Memcache at Facebook](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf), Facebook Inc
+  - Lecture 16: Cache Consistency: Memcached at Facebook, https://youtu.be/Myp8z0ybdzM, MIT 6.824: Distributed Systems
+* Knowledge Base
+  - Distributed System in One Lesson, https://youtu.be/Y6Ev8GIlbxc, Tim Berglund (Devoxx Poland)
+  - What is Apache Kafka?, https://youtu.be/vHbvbwSEYGo, The ASF
+  - RAID, https://youtu.be/U-OCdTeZLac, Tech Videos
+* Interview Mockups
+  - How to implement TinyURL, https://youtu.be/eCLqmPBIEYs, KA Education
+  - Design A Location Based Service (Yelp), https://youtu.be/M4lR_Va97cQ, ByteByteGo
 
 ## Behavioural
 * Intro to Behavioural Interviews, https://youtu.be/PJKYqLP6MRE, Jackson Gabbard
