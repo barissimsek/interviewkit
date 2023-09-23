@@ -1,12 +1,6 @@
 # SRE Interview Kit
 
-I have gathered several resources to help you prepare for an SRE interview with top companies. It's important to avoid getting overwhelmed by too much information, as it can be misleading. Instead, focus your efforts on studying and practicing the key topics listed below.
-
-## Books
-
-* Site Reliability Engineering, https://sre.google/sre-book/table-of-contents/, Google
-* Designing Data-Intensive Applications, https://www.amazon.com/dp/1449373321, Martin Kleppmann
-* System Design Interview, https://a.co/d/93j1qF0, Alex Xu
+I've crafted a laser-focused guide for those preparing for interviews in the SRE, DevOps, or Production Engineering domains. It's also pertinent to software engineering. I tried to collect the best and the shortest resources to avoid fluff and information flooding. You can also find some real-life architectures from their designers in the top companies as well as some dedicated resources for staff/principal-level engineers.
 
 ## Programming & Algorithms
 * [Python Programming for Beginners](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7), Corey Schafer
@@ -79,3 +73,11 @@ Optional for Staff/Principal engineers:
 Big tech companies usually conduct generic interviews and don't ask questions about the specific topics. This might not be the case for many mid-size companies or startups. Whether they ask or not, if you are a L4+ SRE, you are supposed to know following topics as well.
 
 * Containerization, https://youtu.be/gNRWP2K7h0s, Baris Simsek
+
+## Books
+
+* Site Reliability Engineering, https://sre.google/sre-book/table-of-contents/, Google
+* Designing Data-Intensive Applications, https://www.amazon.com/dp/1449373321, Martin Kleppmann
+* System Design Interview, https://a.co/d/93j1qF0, Alex Xu
+
+
