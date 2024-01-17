@@ -48,6 +48,7 @@ I've crafted a laser-focused guide for those preparing for interviews in the SRE
   - [Scaling Memcache at Facebook](https://www.usenix.org/system/files/conference/nsdi13/nsdi13-final170_update.pdf), Facebook Inc
   - Lecture 16: Cache Consistency: Memcached at Facebook, https://youtu.be/Myp8z0ybdzM, MIT 6.824: Distributed Systems
   - How We've Scaled Dropbox, https://youtu.be/PE4gwstWhmc, Kevin Modzelewski
+  - Scalable and Reliable Logging at Pinterest, https://youtu.be/DphnpWVYeG8, Krishna Gade and Yu Yang
 * Knowledge Base
   - Distributed System in One Lesson, https://youtu.be/Y6Ev8GIlbxc, Tim Berglund (Devoxx Poland)
   - What is Apache Kafka?, https://youtu.be/vHbvbwSEYGo, The ASF
