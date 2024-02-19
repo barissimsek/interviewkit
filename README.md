@@ -78,6 +78,7 @@ Big tech companies usually conduct generic interviews and don't ask questions ab
 
 ## Books
 
+* Modern Operating Systems, https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/9332575770, Andrew Tanenbaum
 * Site Reliability Engineering, https://sre.google/sre-book/table-of-contents/, Google
 * Designing Data-Intensive Applications, https://www.amazon.com/dp/1449373321, Martin Kleppmann
 * System Design Interview, https://a.co/d/93j1qF0, Alex Xu
