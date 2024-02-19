@@ -63,6 +63,7 @@ I've crafted a laser-focused guide for those preparing for interviews in the SRE
 * How to Tell a Good Story, https://youtu.be/hU6BVxtGd5g, ALifeEngineered
 * Cracking the Behavioral Interview, https://youtu.be/ld0cvWnrVsU, Keep On Coding
 * All You Need To Know About Behavioral Interviews, https://youtu.be/6rW01g6Obwk, Clément Mihailescu
+* Tell Me About a Time You Disagreed With Someone, https://youtu.be/5h2flRFi8l8, Andrew LaCivita
 
 Optional for Staff/Principal engineers:
 * Senior Staff Engineer Interview Questions, https://youtu.be/An5gq_oiVHc, Mock Questions
