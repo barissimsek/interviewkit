@@ -59,6 +59,7 @@ I've crafted a laser-focused guide for those preparing for interviews in the SRE
   - Distributed Cache, https://youtu.be/iuqZvajTOyA, System Design Interview
 
 ## Behavioural
+* How to Answer Behavioral Interview Questions, https://youtu.be/nfSkeXvE0Nw, Andrew LaCivita
 * Intro to Behavioural Interviews, https://youtu.be/PJKYqLP6MRE, Jackson Gabbard
 * How to Tell a Good Story, https://youtu.be/hU6BVxtGd5g, ALifeEngineered
 * All You Need To Know About Behavioral Interviews, https://youtu.be/6rW01g6Obwk, Clément Mihailescu
